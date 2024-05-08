@@ -49,20 +49,3 @@ git clone https://github.com/tatsuya-takahashi/citation-viewer.git
 npm install
 ```
 
-### debug in your local
-```
-npm run start
-```
-
-## Roadmap
-- Visualize the tag information in Paperpile
-- A system that does not require json uploads in conjunction with Paperpile
-- Grouping Function
-- Add notes and save network
-
-## Donation
-Your donation will encourage the development of the application.
-Amazon Gift Cards are accepted from ¥15.  
-
-### My Wish List  
-https://www.amazon.co.jp/hz/wishlist/genericItemsPage/LM7BTYTNIHI?type=wishlist&filter=persistent_all&sort=priority&viewType=list
