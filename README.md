@@ -1,7 +1,3 @@
-# CitationViewer
-https://tatsuya-takahashi.github.io/citation-viewer/
-![Setting](./src/assets/cv.gif)
-
 ## What's this
 This is a visualization of the citation relationships of the papers registered in Paperpile.
 It is a graph network where nodes are papers and edges are citation relations.
