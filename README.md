@@ -2,12 +2,7 @@
 This is a visualization of the citation relationships of the papers registered in Paperpile.
 It is a graph network where nodes are papers and edges are citation relations.
 
-> 使い方（日本語）はこちら
-> https://zenn.dev/iwashi_ser/articles/424cc29cbf3e32
-
-## Release Note
-### 2021.01.06 Ver 1.0
-- Published
+> 使い方（日本語）は別途
 
 ## Environment
 - Windows, Mac OS, Linux, iPad OS
@@ -16,8 +11,6 @@ It is a graph network where nodes are papers and edges are citation relations.
 ## How To Use
 1. Export json from Paperpile.  
 Paperpile -> Settings -> Export -> Export to JSON
-![Setting](./src/assets/readme_1.png)
-![Setting](./src/assets/readme_2.png)
 
 2. Access to [Citation Viewer](https://tatsuya-takahashi.github.io/citation-viewer/) and Upload JSON file
 > Since all the processing is done on the your client PC, your JSON file and personal information will not be sent to the server at all.
@@ -38,14 +31,5 @@ Paperpile -> Settings -> Export -> Export to JSON
 ## Bugs or Feature Request
 - If you find a bug or have a feature you would like to see added, please submit an Issue. We also accept pull requests.
 
-## How to setup
-### Clone this repository
-```
-git clone https://github.com/tatsuya-takahashi/citation-viewer.git
-```
 
-### install library
-```
-npm install
-```
 
